@@ -1,0 +1,11 @@
+{
+    "eslint.alwaysShowStatus": true,
+    "eslint.format.enable": true,
+    "html.format.maxPreserveNewLines": null,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "window.zoomLevel": 0.6,
+    "files.insertFinalNewline": true
+}
