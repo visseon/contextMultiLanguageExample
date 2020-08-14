@@ -28,3 +28,6 @@ npx react-native run-ios
 ```
 You can test it.
 ```
+### SS
+
+<img src='https://raw.githubusercontent.com/visseon/context-multi-language/master/assets/react-native.gif' width="500"/>
